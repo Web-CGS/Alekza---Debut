@@ -11,7 +11,7 @@ h1, h2, h3, p{
 
 body { 
     width: 100vw; 
-    max-width: 100%;
+    
     font-size: 10px;
     overflow-x: hidden;
 }
@@ -212,7 +212,7 @@ body {
     border-radius: 50%;
     border-top: 5px solid white;
 
-    font-size: 10rem;
+    font-size: 4rem;
     text-align: center;
 
     position: relative;
